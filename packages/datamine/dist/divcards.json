@@ -1052,7 +1052,7 @@
       "card": "Luminous Trove",
       "maps": [],
       "loot": {
-        "text": "Voices"
+        "text": "Voices\nCorrupted"
       }
     },
     {
@@ -1658,7 +1658,7 @@
         "Clouded Ridge",
         "Forgotten Oubliette",
         "Remote Gulch",
-        "Cremated Archives",
+        "Cremated Archives (Act 10)",
         "Narrow Ravine",
         "Mystical Clearing",
         "Covered-up Hollow",
@@ -1688,7 +1688,7 @@
         "Sealed Basement",
         "Secluded Canal",
         "Forbidden Archives",
-        "Cremated Archives",
+        "Cremated Archives (Act 5)",
         "Twisted Inquisitorium",
         "Deathly Chambers",
         "Restricted Collection",
@@ -2563,8 +2563,6 @@
     {
       "card": "The Gladiator",
       "maps": [
-        "Daresso's Dream",
-        "The Grand Arena",
         "Arena Map",
         "Pit of the Chimera Map",
         "Colosseum Map",
@@ -3590,6 +3588,7 @@
         "Overgrown Shrine Map",
         "Promenade Map",
         "Silo Map",
+        "Underground Sea Map",
         "Wasteland Map"
       ],
       "loot": {
